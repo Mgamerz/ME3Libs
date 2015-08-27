@@ -1,6 +1,6 @@
 ﻿namespace ScriptDecompilerFrontend
 {
-    partial class Form1
+    partial class ScriptDecompilerFrontend
     {
         /// <summary>
         /// Required designer variable.
